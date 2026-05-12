@@ -1,0 +1,14 @@
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/bin/Debug/net10.0/multitierapp
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/bin/Debug/net10.0/multitierapp.deps.json
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/bin/Debug/net10.0/multitierapp.runtimeconfig.json
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/bin/Debug/net10.0/multitierapp.dll
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/bin/Debug/net10.0/multitierapp.pdb
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/obj/Debug/net10.0/multitierapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/obj/Debug/net10.0/multitierapp.AssemblyInfoInputs.cache
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/obj/Debug/net10.0/multitierapp.AssemblyInfo.cs
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/obj/Debug/net10.0/multitierapp.csproj.CoreCompileInputs.cache
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/obj/Debug/net10.0/multitierapp.dll
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/obj/Debug/net10.0/refint/multitierapp.dll
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/obj/Debug/net10.0/multitierapp.pdb
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/obj/Debug/net10.0/multitierapp.genruntimeconfig.cache
+/Users/sasisekharapreetamkommavarapu/Documents/presidio/multitierapplication/multitierapp/obj/Debug/net10.0/ref/multitierapp.dll
